@@ -1,0 +1,3 @@
+Humanoid robot motion sequence: 
+Keep feet planted completely flat and stationary on the floor at all times (zero foot displacement, no walking or stepping). 
+The robot extends both arms straight forward, performs two smooth squats, flexes its right bicep, brings its right hand up to its face/lips to blow a fly kiss, and opens its right arm wide to send the kiss.
